@@ -1,0 +1,50 @@
+.bodyfooter{
+    left:7%;
+    width: 93%;
+    background-color: rgb(237, 199, 152);
+    height: 25%;
+    color: aliceblue;
+    position: fixed;
+bottom: 0%;
+align-items: center;
+padding: 1%;
+}
+.about{
+   
+    width: 25vh;
+    margin: auto;
+    border-top: solid 1px black;
+    border-bottom: solid 1px black;
+    display: flex;
+    flex: 2;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: larger;
+    color: black;
+}
+.categories{
+  flex:3;
+  display: flex;
+    flex-direction: column;
+    justify-content: end;
+    margin-left: 20%;
+    margin-top: 2%;
+    color: black;
+}
+.links{
+    flex: 3;
+    display: flex;
+    flex-direction: column;
+    margin-left: -30%;
+    margin-top: 2%;
+    color: black;
+}
+.footerwrap{
+    display: flex;
+    flex-direction: row;
+
+}
+h5{
+    font-size: larger;
+}

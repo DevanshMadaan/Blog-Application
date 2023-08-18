@@ -1,0 +1,36 @@
+.Sidebarleft{
+    align-items: center;
+    justify-content: end;
+    position: fixed;
+    height: 83%;
+    width: 7%;
+    background-color: black;
+    top: 17%;
+    left: 0%;
+    display: flex;
+    position: fixed;
+    
+}
+.list{
+    text-decoration: none;
+    color: rgba(224, 218, 218, 0.71);
+    list-style: none;
+    font-size: 25px;
+    margin-left: 0%;
+    float: left;
+}
+
+.listitem{
+    left: 0%;
+    margin: 1.5rem;
+    text-decoration: none;
+    color: rgba(224, 218, 218, 0.71);
+    
+}
+.listitem:hover{
+    color: white;
+    cursor: pointer;
+}
+.link{
+    color: rgba(224, 218, 218, 0.71);
+}
